@@ -1,0 +1,17 @@
+C:\Users\Yazilim11\Source\Repos\Mongo Repository\Mongo.Repository\Test\bin\Release\Example.exe.config
+C:\Users\Yazilim11\Source\Repos\Mongo Repository\Mongo.Repository\Test\bin\Release\Example.exe
+C:\Users\Yazilim11\Source\Repos\Mongo Repository\Mongo.Repository\Test\bin\Release\Example.pdb
+C:\Users\Yazilim11\Source\Repos\Mongo Repository\Mongo.Repository\Test\bin\Release\Mongo.Repository.dll
+C:\Users\Yazilim11\Source\Repos\Mongo Repository\Mongo.Repository\Test\bin\Release\Mongo.Repository.Version.dll
+C:\Users\Yazilim11\Source\Repos\Mongo Repository\Mongo.Repository\Test\bin\Release\MongoDB.Bson.dll
+C:\Users\Yazilim11\Source\Repos\Mongo Repository\Mongo.Repository\Test\bin\Release\MongoDB.Driver.Core.dll
+C:\Users\Yazilim11\Source\Repos\Mongo Repository\Mongo.Repository\Test\bin\Release\MongoDB.Driver.dll
+C:\Users\Yazilim11\Source\Repos\Mongo Repository\Mongo.Repository\Test\bin\Release\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Yazilim11\Source\Repos\Mongo Repository\Mongo.Repository\Test\bin\Release\Mongo.Repository.Version.pdb
+C:\Users\Yazilim11\Source\Repos\Mongo Repository\Mongo.Repository\Test\bin\Release\Mongo.Repository.pdb
+C:\Users\Yazilim11\Source\Repos\Mongo Repository\Mongo.Repository\Test\bin\Release\MongoDB.Bson.xml
+C:\Users\Yazilim11\Source\Repos\Mongo Repository\Mongo.Repository\Test\bin\Release\MongoDB.Driver.xml
+C:\Users\Yazilim11\Source\Repos\Mongo Repository\Mongo.Repository\Test\bin\Release\MongoDB.Driver.Core.xml
+C:\Users\Yazilim11\Source\Repos\Mongo Repository\Mongo.Repository\Test\obj\Release\Example.csprojResolveAssemblyReference.cache
+C:\Users\Yazilim11\Source\Repos\Mongo Repository\Mongo.Repository\Test\obj\Release\Example.exe
+C:\Users\Yazilim11\Source\Repos\Mongo Repository\Mongo.Repository\Test\obj\Release\Example.pdb

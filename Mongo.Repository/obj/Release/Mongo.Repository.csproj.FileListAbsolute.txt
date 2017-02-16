@@ -1,0 +1,4 @@
+C:\Users\Yazilim11\Source\Repos\Mongo Repository\Mongo.Repository\Mongo.Repository\bin\Release\Mongo.Repository.dll
+C:\Users\Yazilim11\Source\Repos\Mongo Repository\Mongo.Repository\Mongo.Repository\bin\Release\Mongo.Repository.pdb
+C:\Users\Yazilim11\Source\Repos\Mongo Repository\Mongo.Repository\Mongo.Repository\obj\Release\Mongo.Repository.dll
+C:\Users\Yazilim11\Source\Repos\Mongo Repository\Mongo.Repository\Mongo.Repository\obj\Release\Mongo.Repository.pdb
